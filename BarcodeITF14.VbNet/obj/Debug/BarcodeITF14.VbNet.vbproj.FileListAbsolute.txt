@@ -1,0 +1,11 @@
+D:\Workspace\Projetos\BarcodeITF14\BarcodeITF14.VbNet\bin\Debug\BarcodeITF14.VbNet.exe.config
+D:\Workspace\Projetos\BarcodeITF14\BarcodeITF14.VbNet\bin\Debug\BarcodeITF14.VbNet.exe
+D:\Workspace\Projetos\BarcodeITF14\BarcodeITF14.VbNet\bin\Debug\BarcodeITF14.VbNet.pdb
+D:\Workspace\Projetos\BarcodeITF14\BarcodeITF14.VbNet\bin\Debug\BarcodeITF14.VbNet.xml
+D:\Workspace\Projetos\BarcodeITF14\BarcodeITF14.VbNet\obj\Debug\BarcodeITF14.VbNet.vbprojResolveAssemblyReference.cache
+D:\Workspace\Projetos\BarcodeITF14\BarcodeITF14.VbNet\obj\Debug\BarcodeITF14.VbNet.Form1.resources
+D:\Workspace\Projetos\BarcodeITF14\BarcodeITF14.VbNet\obj\Debug\BarcodeITF14.VbNet.Resources.resources
+D:\Workspace\Projetos\BarcodeITF14\BarcodeITF14.VbNet\obj\Debug\BarcodeITF14.VbNet.vbproj.GenerateResource.Cache
+D:\Workspace\Projetos\BarcodeITF14\BarcodeITF14.VbNet\obj\Debug\BarcodeITF14.VbNet.exe
+D:\Workspace\Projetos\BarcodeITF14\BarcodeITF14.VbNet\obj\Debug\BarcodeITF14.VbNet.xml
+D:\Workspace\Projetos\BarcodeITF14\BarcodeITF14.VbNet\obj\Debug\BarcodeITF14.VbNet.pdb

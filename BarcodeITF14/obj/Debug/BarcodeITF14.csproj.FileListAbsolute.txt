@@ -1,0 +1,16 @@
+C:\Users\jaqueline.mistron\Desktop\BarcodeITF14\BarcodeITF14\obj\Debug\BarcodeITF14.csprojResolveAssemblyReference.cache
+C:\Users\jaqueline.mistron\Desktop\BarcodeITF14\BarcodeITF14\obj\Debug\BarcodeITF14.Form1.resources
+C:\Users\jaqueline.mistron\Desktop\BarcodeITF14\BarcodeITF14\obj\Debug\BarcodeITF14.Properties.Resources.resources
+C:\Users\jaqueline.mistron\Desktop\BarcodeITF14\BarcodeITF14\obj\Debug\BarcodeITF14.csproj.GenerateResource.Cache
+C:\Users\jaqueline.mistron\Desktop\BarcodeITF14\BarcodeITF14\bin\Debug\BarcodeITF14.exe
+C:\Users\jaqueline.mistron\Desktop\BarcodeITF14\BarcodeITF14\bin\Debug\BarcodeITF14.pdb
+C:\Users\jaqueline.mistron\Desktop\BarcodeITF14\BarcodeITF14\obj\Debug\BarcodeITF14.exe
+C:\Users\jaqueline.mistron\Desktop\BarcodeITF14\BarcodeITF14\obj\Debug\BarcodeITF14.pdb
+D:\Workspace\Projetos\BarcodeITF14\BarcodeITF14\obj\Debug\BarcodeITF14.exe
+D:\Workspace\Projetos\BarcodeITF14\BarcodeITF14\obj\Debug\BarcodeITF14.pdb
+D:\Workspace\Projetos\BarcodeITF14\BarcodeITF14\bin\Debug\BarcodeITF14.exe
+D:\Workspace\Projetos\BarcodeITF14\BarcodeITF14\bin\Debug\BarcodeITF14.pdb
+D:\Workspace\Projetos\BarcodeITF14\BarcodeITF14\obj\Debug\BarcodeITF14.csprojResolveAssemblyReference.cache
+D:\Workspace\Projetos\BarcodeITF14\BarcodeITF14\obj\Debug\BarcodeITF14.Form1.resources
+D:\Workspace\Projetos\BarcodeITF14\BarcodeITF14\obj\Debug\BarcodeITF14.Properties.Resources.resources
+D:\Workspace\Projetos\BarcodeITF14\BarcodeITF14\obj\Debug\BarcodeITF14.csproj.GenerateResource.Cache
