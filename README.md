@@ -12,4 +12,4 @@ Na solution há dois projetos, um implementado em C# e o outro em VB.Net. Ambos 
 Ao executar o projeto, é necessário informar um código de 14 dígitos numéricos. 
 O sistema realiza validação do código informado utilizando o algoritmo do módulo 10.
 
-A partir do dígito informado, uma imagem do código de barras é gerada. Esta imagem pode ser utilizada em layouts de etiquetas, por exemplo.
+A partir do código numérico informado, uma imagem do código de barras é gerada. Esta imagem pode ser utilizada em layouts de etiquetas, por exemplo.
